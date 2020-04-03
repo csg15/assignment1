@@ -127,15 +127,15 @@ Tasks.ipynb         | Sample notebook as a reference for how your notebooks shou
 
 ## Your To-Do List for This Assignment :dollar::euro:
 
-- [ ] I create an environment and install the requirements to my environment.
-- [ ] I completed task #01.
+- [x] I create an environment and install the requirements to my environment.
+- [x] I completed task #01.
 - [ ] I completed task #02.
-- [ ] I completed task #03.
-- [ ] I completed task #04.
-- [ ] I completed task #05.
-- [ ] I completed task #06.
+- [x] I completed task #03.
+- [x] I completed task #04.
+- [x] I completed task #05.
+- [x] I completed task #06.
 - [ ] I completed task #07.
-- [ ] My notebook(s) are well organized with headings, comments, that makes it visually appealing.
-- [ ] My notebook(s) have the results of my execution.
-- [ ] My notebook(s) are reproducible.
-- [ ] I download the final version of my repository, and uploaded to the [blackboard](https://saintpeters.blackboard.com/)!
+- [x] My notebook(s) are well organized with headings, comments, that makes it visually appealing.
+- [x] My notebook(s) have the results of my execution.
+- [x] My notebook(s) are reproducible.
+- [x] I download the final version of my repository, and uploaded to the [blackboard](https://saintpeters.blackboard.com/)!
